@@ -31,3 +31,7 @@ def input_to_index(input)
   integer = input.to_i - 1
   return integer
 end
+
+def 
+  
+end
