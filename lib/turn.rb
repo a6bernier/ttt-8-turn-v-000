@@ -40,4 +40,5 @@ def turn(board)
     puts move
   else
     puts "Please enter 1-9:"
+  endß
 end
