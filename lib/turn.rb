@@ -39,7 +39,7 @@ def turn(board)
   if valid_move?(board, index) == true
      move(board, index, character= "X")
   else
-    board(turn)
+    turn(board)
   end
   board
 end
